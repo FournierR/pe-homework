@@ -1,0 +1,14 @@
+;region;kwh_par_habitant;classe
+2;Centre-Val de Loire;29163;forte
+0;Auvergne-Rhône-Alpes;17341;forte
+4;Normandie;16636;forte
+1;Grand Est;15108;forte
+3;Nouvelle-Aquitaine;10230;forte
+5;Hauts-de-France;8385;moyenne
+6;Occitanie;6361;moyenne
+12;Corse;6257;moyenne
+7;Provence-Alpes-Côte d'Azur;3250;moyenne
+8;Pays de la Loire;2077;faible
+9;Bretagne;1676;faible
+11;Bourgogne-Franche-Comté;1393;faible
+10;Île-de-France;443;faible
